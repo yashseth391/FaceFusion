@@ -101,3 +101,41 @@ Application configuration, including name, version, icons, and splash screen, is
 ## Dependencies
 
 Key dependencies for the mobile application can be found in [`FaceFusion/package.json`](FaceFusion/package.json).
+
+## Backend API & Deployment
+
+The backend for FaceFusion is a FastAPI application responsible for face recognition tasks. It's containerized using Docker and deployed on an AWS EC2 instance.
+
+### API Endpoints (Swagger UI)
+![Face Recognition API Swagger UI](./screenshots/backend_api_swagger.png)
+
+### Example API Responses
+**Recognize Endpoint:**
+![Recognize Endpoint Response](./screenshots/backend_api_response_recognize.png)
+
+**Students Endpoint:**
+![Students Endpoint Response](./screenshots/backend_api_response_students.png)
+
+### AWS EC2 Deployment
+**EC2 Instance:**
+![AWS EC2 Instance](./screenshots/backend_aws_ec2_instance.png)
+
+**Docker Logs on EC2:**
+![Docker Logs on EC2](./screenshots/backend_ec2_docker_logs.png)
+
+## Frontend Application Screenshots
+
+Here are some screenshots of the FaceFusion React Native mobile application, showcasing its features and appearance in both light and dark themes.
+
+![Frontend Screenshot 1](./screenshots/frontend1.jpg)
+![Frontend Screenshot 2](./screenshots/f2.jpg)
+![Frontend Screenshot 3](./screenshots/f3.jpg)
+![Frontend Screenshot 4](./screenshots/f4.jpg)
+![Frontend Screenshot 5](./screenshots/f5.jpg)
+![Frontend Screenshot 6](./screenshots/f6.jpg)
+![Frontend Screenshot 7](./screenshots/f7.jpg)
+![Frontend Screenshot 8](./screenshots/f8.jpg)
+![Frontend Screenshot 9](./screenshots/f9.jpg)
+![Frontend Screenshot 10](./screenshots/f10.jpg)
+![Frontend Screenshot 11](./screenshots/f11.jpg)
+![Frontend Screenshot 12](./screenshots/f12.jpg)
