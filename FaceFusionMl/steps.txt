@@ -1,0 +1,8 @@
+scp -r -i minor.pem app ec2-user@13.50.238.112:/home/ec2-user/downloads
+go to console  = >  > https://eu-north-1.console.aws.amazon.com/ec2-instance-connect/ssh/home?addressFamily=ipv4&connType=standard&instanceId=i-071c61cabf81373c5&osUser=ec2-user&region=eu-north-1&sshPort=22
+
+login to your ec2 instance
+sudo docker run -d -p 80:8000 ec2-flask:v1.0
+sudo docker ps 
+
+check http://13.50.238.112/docs
