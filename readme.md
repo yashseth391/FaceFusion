@@ -107,35 +107,35 @@ Key dependencies for the mobile application can be found in [`FaceFusion/package
 The backend for FaceFusion is a FastAPI application responsible for face recognition tasks. It's containerized using Docker and deployed on an AWS EC2 instance.
 
 ### API Endpoints (Swagger UI)
-![Face Recognition API Swagger UI](./screenshots/backend_api_swagger.png)
+<img src="./screenshots/backend_api_swagger.png" alt="Face Recognition API Swagger UI" width="600">
 
 ### Example API Responses
 **Recognize Endpoint:**
-![Recognize Endpoint Response](./screenshots/backend_api_response_recognize.png)
+<img src="./screenshots/backend_api_response_recognize.png" alt="Recognize Endpoint Response" width="600">
 
 **Students Endpoint:**
-![Students Endpoint Response](./screenshots/backend_api_response_students.png)
+<img src="./screenshots/backend_api_response_students.png" alt="Students Endpoint Response" width="600">
 
 ### AWS EC2 Deployment
 **EC2 Instance:**
-![AWS EC2 Instance](./screenshots/backend_aws_ec2_instance.png)
+<img src="./screenshots/backend_aws_ec2_instance.png" alt="AWS EC2 Instance" width="600">
 
 **Docker Logs on EC2:**
-![Docker Logs on EC2](./screenshots/backend_ec2_docker_logs.png)
+<img src="./screenshots/backend_ec2_docker_logs.png" alt="Docker Logs on EC2" width="600">
 
 ## Frontend Application Screenshots
 
 Here are some screenshots of the FaceFusion React Native mobile application, showcasing its features and appearance in both light and dark themes.
 
-![Frontend Screenshot 1](./screenshots/frontend1.jpg)
-![Frontend Screenshot 2](./screenshots/f2.jpg)
-![Frontend Screenshot 3](./screenshots/f3.jpg)
-![Frontend Screenshot 4](./screenshots/f4.jpg)
-![Frontend Screenshot 5](./screenshots/f5.jpg)
-![Frontend Screenshot 6](./screenshots/f6.jpg)
-![Frontend Screenshot 7](./screenshots/f7.jpg)
-![Frontend Screenshot 8](./screenshots/f8.jpg)
-![Frontend Screenshot 9](./screenshots/f9.jpg)
-![Frontend Screenshot 10](./screenshots/f10.jpg)
-![Frontend Screenshot 11](./screenshots/f11.jpg)
-![Frontend Screenshot 12](./screenshots/f12.jpg)
+<img src="./screenshots/frontend1.jpg" alt="Frontend Screenshot 1" width="600">
+<img src="./screenshots/f2.jpg" alt="Frontend Screenshot 2" width="600">
+<img src="./screenshots/f3.jpg" alt="Frontend Screenshot 3" width="600">
+<img src="./screenshots/f4.jpg" alt="Frontend Screenshot 4" width="600">
+<img src="./screenshots/f5.jpg" alt="Frontend Screenshot 5" width="600">
+<img src="./screenshots/f6.jpg" alt="Frontend Screenshot 6" width="600">
+<img src="./screenshots/f7.jpg" alt="Frontend Screenshot 7" width="600">
+<img src="./screenshots/f8.jpg" alt="Frontend Screenshot 8" width="600">
+<img src="./screenshots/f9.jpg" alt="Frontend Screenshot 9" width="600">
+<img src="./screenshots/f10.jpg" alt="Frontend Screenshot 10" width="600">
+<img src="./screenshots/f11.jpg" alt="Frontend Screenshot 11" width="600">
+<img src="./screenshots/f12.jpg" alt="Frontend Screenshot 12" width="600">
